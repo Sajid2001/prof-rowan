@@ -19,54 +19,54 @@ The Professor Rowan Discord bot allows you to:
 
 ## Commands
 
-### ```replays```
+### ```/replays```
 
 inputs: 
 * user (your username)
   
-### ```vs_replays```
+### ```/vs_replays```
 
 inputs:
 * userOne (your username)
 * userTwo (opponent's username)
   
-### ```info```
+### ```/info```
 
 inputs: 
 * user (your username)
   
-### ```news```
+### ```/news```
 
 inputs: (none)
 
-### ```validate```
+### ```/validate```
 
 inputs:
 * format (name of the format you want to validate under - (ex: gen9ou, gen6uu))
 * url (url of your pokepaste)
   
-### ```generate```
+### ```/generate```
 
 inputs:
 * format (name of the format you want to validate under - (ex: gen9ou, gen6uu))
   * note: custom bans for gen 9 are not supported. So gen9ou as an input will not work, but gen9 will
     
-### ```species```
+### ```/species```
 
 inputs: 
 * species (name of the species you want to look up)
   
-### ```move```
+### ```/move```
 
 inputs:
 * move (name of the move you want to look up)
 
-### ```ability```
+### ```/ability```
 
 inputs:
 * ability (name of the ability you want to look up)
 
-### ```item```
+### ```/item```
 
 inputs:
 * item (name of the item you want to look up)
