@@ -6,7 +6,7 @@ My name is Rowan. However, everyone just calls me the Pokémon Professor. Before
 
 * [Commands](#commands)
    * [Replays](#/replays)
-   * [VsReplays](#/vs-replays)
+   * [Vs Replays](#/vs_replays)
    * [Info](#/info)
    * [News](#/news)
    * [Validate](#/validate)
