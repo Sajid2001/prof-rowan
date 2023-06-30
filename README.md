@@ -1,22 +1,13 @@
 # Prof Rowan Discord Bot
 
-## An all-purpose bot that gives you all the Pokemon information you need. With just a few clicks
+## Hello, it is very nice to meet you. Welcome to the world of Pokemon
 
-The Professor Rowan Discord bot allows you to:
-* View your own replays
-* View your own ELO information
-* Randomly generate teams
-* Validate teams
-* Look up any Pokemon, move, ability, and item
+My name is Rowan. However, everyone just calls me the Pokémon Professor. Before I go any further, is this your first adventure? If you need advice, I'm certainly capable of giving it
 
-## Technologies Used
+* [Commands](#commands)
+* [Q and A](#q-and-a) 
 
-* Discord.js
-* NodeJS
-* Pokemon Showdown npm package
-* Pokemon Showdown Web API
-* PokeAPI
-* Cheerio
+We humans live alongside Pokémon as friends. At times we play together, and at other times we work together. Some people use their Pokémon to battle and develop closer bonds with them. What do I do? I conduct research so that we may learn more about Pokémon. I am also a discord bot that can provide you with a wide variety of information such as species data, your showdown ELO information, and I can randomly generate a team for just about every format.
 
 ## Commands
 
@@ -26,7 +17,6 @@ inputs:
 * user (your username)
   
 https://github.com/Sajid2001/prof-rowan/assets/60523377/82ac5f78-cfa8-4cf5-aa16-cbf0d17cbc7e
-
 
 ### ```/vs_replays```
 
@@ -69,21 +59,29 @@ https://github.com/Sajid2001/prof-rowan/assets/60523377/9d4a2580-203d-4bea-af8d-
 
 inputs: 
 * species (name of the species you want to look up)
-  
+
+https://github.com/Sajid2001/prof-rowan/assets/60523377/968856ea-1f96-44eb-bc82-d85df8776594
+
 ### ```/move```
 
 inputs:
 * move (name of the move you want to look up)
+
+https://github.com/Sajid2001/prof-rowan/assets/60523377/463fe0d1-a0d0-44ca-af1f-ec969a31621f
 
 ### ```/ability```
 
 inputs:
 * ability (name of the ability you want to look up)
 
+https://github.com/Sajid2001/prof-rowan/assets/60523377/1c0c6d8a-b905-4cc8-b4bd-0868415710d6
+
 ### ```/item```
 
 inputs:
 * item (name of the item you want to look up)
+
+https://github.com/Sajid2001/prof-rowan/assets/60523377/e3a9506a-aa53-4526-8099-cb178335468e
 
 ## Q and A
 
@@ -95,3 +93,10 @@ Unfortunately, that is a problem with the Pokemon showdown API. We may need to w
 
 That is another limitation of the showdown API. Matches may need to be public to be accessed by the showdown API.
 
+## Technologies Used
+
+* NodeJS / Discord.js
+* Pokemon Showdown npm package
+* Pokemon Showdown Web API
+* PokeAPI
+* Cheerio
