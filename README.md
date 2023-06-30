@@ -71,3 +71,12 @@ inputs:
 inputs:
 * item (name of the item you want to look up)
 
+## Q and A
+
+### Why are gen 9 custom bans not supported for generating a random team?
+
+Unfortunately, that is a problem with the pokemon showdown api. We may need to wait a while for gen 9 custom bans to be supported by the api.
+
+### Why can't I see my latest replays?
+
+That is another limitation with the showdown api. Matches may need to be public to be accessed by the api.
