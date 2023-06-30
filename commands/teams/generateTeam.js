@@ -2,9 +2,12 @@ const { SlashCommandBuilder, EmbedBuilder} = require('discord.js');
 const { generateTeam } = require('../../functions/teamFunctions')
 
 function createTeamEmbed(format, pokepaste) {
+	const bulletpoint = '\u200B-'; 
+
+    const formattedPokepaste = pokepaste.replace(/-/g, bulletpoint);
 	const embed = new EmbedBuilder()
 	   .setTitle(`Generated Team: ${format}`)
-       .setDescription(pokepaste)
+       .setDescription(formattedPokepaste)
 
 	return embed;
   }
