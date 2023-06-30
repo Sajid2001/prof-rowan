@@ -14,6 +14,7 @@ The Professor Rowan Discord bot allows you to:
 * Discord.js
 * NodeJS
 * Pokemon Showdown npm package
+* Pokemon Showdown Web API
 * PokeAPI
 * Cheerio
 
