@@ -5,9 +5,9 @@
 My name is Rowan. However, everyone just calls me the Pokémon Professor. Before I go any further, is this your first adventure? If you need advice, I'm certainly capable of giving it:
 
 * [Commands](#commands)
-   * [Replays](###/replays)
-   * [VsReplays](###/vs-replays)
-   * [Info](###/info)
+   * [Replays](#/replays)
+   * [VsReplays](#/vs-replays)
+   * [Info](#/info)
    * [News](#/news)
    * [Validate](#/validate)
    * [Generate](#/generate)
