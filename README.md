@@ -5,7 +5,7 @@
 My name is Rowan. However, everyone just calls me the Pokémon Professor. Before I go any further, is this your first adventure? If you need advice, I'm certainly capable of giving it:
 
 * [Commands](#commands)
-   * [Replays](#replays)
+   * [Replays](#/replays)
 * [Q and A](#q-and-a) 
 
 We humans live alongside Pokémon as friends. At times we play together, and at other times we work together. Some people use their Pokémon to battle and develop closer bonds with them. What do I do? I conduct research so that we may learn more about Pokémon. I am also a discord bot that can provide you with a wide variety of information such as species data, your showdown ELO information, and I can randomly generate a team for just about every format.
